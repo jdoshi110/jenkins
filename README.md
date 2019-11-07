@@ -1,6 +1,8 @@
 Note:
 ====
 
+https://www.youtube.com/watch?v=7KChmotZjPk
+
 jenkins by default runs with jenkins user on the linux box, so this pipeline executed on the jenkins server with user jenkins.
 
 Before making this work, you might need to have git & terraform installed on the jenkins server possibly you should be able to execute terraform and git commands work as a jenkins user on the jenkins server.
